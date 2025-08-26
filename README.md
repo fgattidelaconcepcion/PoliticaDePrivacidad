@@ -1,5 +1,5 @@
 # PoliticaDePrivacidad-
-Política de Privacidad – [Nombre de tu App]
+Política de Privacidad – [GastosApp]
 
 [GastosApp] respeta y protege la privacidad de los usuarios.
 	•	Esta aplicación no recopila, almacena ni comparte información personal de los usuarios.
